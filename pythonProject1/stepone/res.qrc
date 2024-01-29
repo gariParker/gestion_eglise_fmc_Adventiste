@@ -1,0 +1,14 @@
+<RCC>
+  <qresource prefix="images">
+    <file>fond_trois.jpg</file>
+    <file>go.jpg</file>
+    <file>Windows-Close-Program-icon.png</file>
+    <file>exitfaharoa.jpg</file>
+    <file>exit.jpg</file>
+    <file>quatre.jpg</file>
+    <file>exit_32.png</file>
+    <file>exit_32.png</file>
+    <file>R.png</file>
+    <file>Eglise.jpg</file>
+  </qresource>
+</RCC>
